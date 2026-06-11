@@ -5,13 +5,14 @@ node_modules/
 .vite/
 
 # Build files
-dist/
 build/
+
 
 # Environment files
 .env
 .env.local
 .env.production
+# dist
 
 backend/.env
 frontend/.env
