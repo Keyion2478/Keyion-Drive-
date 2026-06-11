@@ -1,0 +1,2 @@
+1. buka dulu folder backend dengan cd backend kalau sudah berada di foldernya tinggal jalankan npm run dev
+2. kemudian buka juga folder frontend di terminal terpisah dengan cd frontend kalau sudah di foldernya jalankan npm run dev

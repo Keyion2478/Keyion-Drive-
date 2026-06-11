@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+
+# Vite cache
+.vite/
+
+# Build files
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+backend/.env
+frontend/.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Prisma generated cache
+.prisma/
+
+# Temporary files
+tmp/
+temp/
